@@ -7,7 +7,7 @@
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Donald+Gekonge+%F0%9F%91%8B;ML+and+DL+Learner;Passionate+Data+Scientist;Python+language+Enthusiast;R language" alt="Headline" />
     </div>
 
-<h3 align="center">A detail-oriented and diligent statistician, interested in Data Science, Machine Learning and Deep Learning.</h3>
+<h3 align="center">A detail-oriented and diligent statistician, interested in Data Science, Computer Science, Machine Learning and Deep Learning.</h3>
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/donaldgekonge?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMoatazElmesmary&screen_name=MoatazElmesmary)<br>
@@ -15,7 +15,7 @@
 
 
 
-I`m a Statistician interested in Data Science, Data Analysis and Machine Learning. I also create softwares. I really enjoy learning languages as well as software engineering.
+I`m a Statistician interested in Data Science, Data Analysis and Machine Learning. I also create softwares. I really enjoy learning languages as well as software engineering.which is so exciting! 😃:
 
 
 Skills: Python-R - Maths - Data wrangling - Data Manipulation - Descriptive analytics - Data Visualization - Statistics - Probability - Machine Learning /HTML / CSS/ JS
@@ -27,8 +27,6 @@ Skills: Python-R - Maths - Data wrangling - Data Manipulation - Descriptive anal
 
 
 <img align="right" width="400" alt="GIF" src="https://blog.cloudlayer.io/content/images/2020/12/coding-freak.gif"/>
-
-
 
 
 
@@ -68,7 +66,7 @@ Skills: Python-R - Maths - Data wrangling - Data Manipulation - Descriptive anal
 
 
 <a href="mailto:gekongedonald002@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gekongedonald002@gmail.com-blue?style=flat-square&logo=gmail"></a><br>
-<a href="https://www.instagram.com/moatazelmesmary/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-gekongejr-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/gekongejr/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-gekongejr-blue?style=flat-square&logo=instagram"></a>
 
 <h3 align="right">Languages and Tools:</h3>
 
