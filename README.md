@@ -5,29 +5,28 @@
 - 📫 How to reach me ...
 
 - <div align=center>
-          <img alt="gif" align="center" src="https://github.com/Moataz-Elmesmary/Moataz-Elmesmary/blob/main/git.gif" width=300 height=300/>
+          <img alt="gif" align="center" src="https://github.com/Donald-Gekonge/Donald-gekonge/blob/main/git.gif" width=600 height=300/>
     </div>
 
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Moataz+Elmesmary+%F0%9F%91%8B;ML+and+DL+Learner;Passionate+Data+Scientist;Python+language+Enthusiast" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Donald+Gekonge+%F0%9F%91%8B;ML+and+DL+Learner;Passionate+Data+Scientist;Python+language+Enthusiast;R language" alt="Headline" />
     </div>
 
-<h3 align="center">A detail-oriented and diligent software engineer, interested in Data Science, Machine Learning and Deep Learning.</h3>
+<h3 align="center">A detail-oriented and diligent statistician, interested in Data Science, Machine Learning and Deep Learning.</h3>
 
-
-<h6 align="center"><img src="https://komarev.com/ghpvc/?username=Moataz-Elmesmary&label=Profile%20views&color=0e75b6&style=flat" alt="chclopes" /><br><i>This counter was added on 13-6-2022</i></h6>
+This counter was added on 20-7-2023</i></h6>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/MoatazElmesmary?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMoatazElmesmary&screen_name=MoatazElmesmary)<br>
 
 
 
 
-I`m a Computer Science student | Medical Informatics Dept. I`m Interested in Data Science, Data Analysis and Machine Learning. I also create content. I really enjoy learning languages as well as web designing.
+I`m a Statistician | Technical University of Kenya I`m Interested in Data Science, Data Analysis and Machine Learning. I also create content. I really enjoy learning languages as well as web designing.
 
 
-Skills: Python - Maths - Data wrangling - Data Manipulation - Descriptive analytics - Data Visualization - Statistics - Probability - Machine Learning /HTML / CSS/ JS
+Skills: Python-R - Maths - Data wrangling - Data Manipulation - Descriptive analytics - Data Visualization - Statistics - Probability - Machine Learning /HTML / CSS/ JS
 
-- 🔭 I’m currently working on Mansoura University (Student) 
+- 🔭 I’m currently working on Technical University of Kenya  (school of mechanical and manufacturing engineering) 
 - 🌱 I’m currently learning ML & DL
 
 
