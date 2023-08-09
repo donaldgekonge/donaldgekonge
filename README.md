@@ -1,11 +1,10 @@
-- 👋 Hi, I’m @donaldgekonge
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Donald Gekonge
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning ML AND AI
+- 💞️ I’m looking to collaborate on medical statistics
 
 - <div align=center>
-          <img alt="gif" align="center" src="https://github.com/Donald-Gekonge/Donald-gekonge/blob/main/git.gif" width=600 height=300/>
+          <img alt="gif" align="center" src="https://github.com/Donald-Gekonge/Donald-gekonge/blob/main/git.gif" width=300 height=300/>
     </div>
 
 <div align=center>
