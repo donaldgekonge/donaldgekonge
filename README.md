@@ -3,9 +3,6 @@
 - 🌱 I’m currently learning ML AND AI
 - 💞️ I’m looking to collaborate on medical statistics
 
-- <div align=center>
-          <img alt="gif" align="center" src="https://github.com/donaldgekonge/donaldgekonge/blob/main/git.gif" width=300 height=300/>
-    </div>
 
 <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Donald+Gekonge+%F0%9F%91%8B;ML+and+DL+Learner;Passionate+Data+Scientist;Python+language+Enthusiast;R language" alt="Headline" />
@@ -101,18 +98,6 @@ Skills: Python-R - Maths - Data wrangling - Data Manipulation - Descriptive anal
     </td>
   </tr>
 </table>
-
-
-
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Moataz-Elmesmary&theme=tokyo-night)](https://github.com/Moataz-Elmesmary/github-readme-activity-graph)
-
-
-<hr>
- 
-<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Moataz-Elmesmary/Moataz-Elmesmary/blob/main/Moataz.svg">
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
 
 
 <!---
