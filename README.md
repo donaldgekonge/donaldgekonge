@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Donald Gekonge
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning ML AND AI
 - 💞️ I’m looking to collaborate on medical statistics
 
 
@@ -10,14 +9,13 @@
 
 <h3 align="center">A detail-oriented and diligent statistician, interested in Data Science, Machine Learning and Deep Learning.</h3>
 
-This counter was added on 20-7-2023</i></h6>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/donald_gekonge?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMoatazElmesmary&screen_name=MoatazElmesmary)<br>
-
+[![Twitter Follow](https://img.shields.io/twitter/follow/donaldgekonge?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMoatazElmesmary&screen_name=MoatazElmesmary)<br>
 
 
 
-I`m a Statistician | Technical University of Kenya I`m Interested in Data Science, Data Analysis and Machine Learning. I also create content. I really enjoy learning languages as well as web designing.
+
+I`m a Statistician interested in Data Science, Data Analysis and Machine Learning. I also create softwares. I really enjoy learning languages as well as software engineering.
 
 
 Skills: Python-R - Maths - Data wrangling - Data Manipulation - Descriptive analytics - Data Visualization - Statistics - Probability - Machine Learning /HTML / CSS/ JS
@@ -62,42 +60,19 @@ Skills: Python-R - Maths - Data wrangling - Data Manipulation - Descriptive anal
 
 <h3 align="left">🤝🏻Connect with me: 
 
-[<img src='https://cdn3.iconfinder.com/data/icons/capsocial-round/500/linkedin-64.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/MoatazElmesmary/)
-[<img src='https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-128.png' alt='facebook' height='40'>](https://www.facebook.com/MoatazElmesmary)
-[<img src='https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_twitter-64.png' alt='twitter' height='40'>](https://twitter.com/MoatazElmesmary)
-[<img src='https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/71-github-64.png' alt='github' height='40'>](https://github.com/Moataz-Elmesmary)
+[<img src='https://cdn3.iconfinder.com/data/icons/capsocial-round/500/linkedin-64.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/GekongeDonald/)
+[<img src='https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-128.png' alt='facebook' height='40'>](https://www.facebook.com/donaldgekonge)
+[<img src='https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_twitter-64.png' alt='twitter' height='40'>](https://twitter.com/donaldgekonge)
+[<img src='https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/71-github-64.png' alt='github' height='40'>](https://github.com/donaldgekonge)
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></h3>
 
 
-<a href="mailto:moataz.mesmary@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-moataz.mesmary@gmail.com-blue?style=flat-square&logo=gmail"></a><br>
-<a href="https://www.instagram.com/moatazelmesmary/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-moatazelmesmary-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:gekongedonald002@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gekongedonald002@gmail.com-blue?style=flat-square&logo=gmail"></a><br>
+<a href="https://www.instagram.com/moatazelmesmary/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-gekongejr-blue?style=flat-square&logo=instagram"></a>
 
-### 🏆 Trophies
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Moataz-Elmesmary&no-frame=true&no-bg=true&theme=juicyfresh&column=5&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
-
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="right">Languages and Tools:</h3>
 
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-
-
-### 📊 Overall Stats
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/Moataz-Elmesmary/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=Moataz-Elmesmary&hide_border=true&show_icons=true" alt="Moataz's GitHub Stats" /> </a>
-    </td>
-    <td>
-      <a href="https://github.com/Moataz-Elmesmary/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moataz-Elmesmary&hide_border=true&langs_count=8&layout=compact" alt="Top Languages" /> </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan=2 align="center">
-      <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=Moataz-Elmesmary&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Moataz's GitHub Readme Streak Stats" /> </a>
-    </td>
-  </tr>
-</table>
 
 
 <!---
