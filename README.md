@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on medical statistics
 
 - <div align=center>
-          <img alt="gif" align="center" src="https://github.com/Donald-Gekonge/Donald-gekonge/blob/main/git.gif" width=300 height=300/>
+          <img alt="gif" align="center" src="https://github.com/donaldgekonge/donaldgekonge/blob/main/git.gif" width=300 height=300/>
     </div>
 
 <div align=center>
