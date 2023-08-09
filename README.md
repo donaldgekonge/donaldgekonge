@@ -12,7 +12,7 @@
 
 This counter was added on 20-7-2023</i></h6>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/MoatazElmesmary?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMoatazElmesmary&screen_name=MoatazElmesmary)<br>
+[![Twitter Follow](https://img.shields.io/twitter/follow/donald_gekonge?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMoatazElmesmary&screen_name=MoatazElmesmary)<br>
 
 
 
